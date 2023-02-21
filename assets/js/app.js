@@ -4,7 +4,6 @@
 // const player = document.getElementById("player")
 // const canvas = document.getElementById("canvas")
 // const restartBtn = document.getElementById("restart")
-
 import {
     startBtn,
     captureBtn,
@@ -13,13 +12,9 @@ import {
     switchBtn,
     canvas,
     restartBtn,
+    mode,
 } from "./constants.js"
-
-
-import {
-    openCamera, closeCamera
-} from "./camera.js"
-
+import { openCamera, closeCamera } from "./camera.js"
 
 
 
