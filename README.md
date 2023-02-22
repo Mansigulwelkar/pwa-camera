@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # PWA CAMERA
 
 The Progressive Web Camera feature is an innovative way to take photos and videos on your device. 
@@ -32,3 +33,5 @@ Finally, when you’re ready to take the photo or video, simply press the captur
 **Client:** HTML,CSS, JAVASCRIPT
 
 
+=======
+>>>>>>> 08a2f4239b12c6c9a2adc7aa1d9b11f8593998ee
